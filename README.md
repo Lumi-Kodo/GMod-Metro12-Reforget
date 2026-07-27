@@ -4,13 +4,8 @@
 
 ### Современный порт классического плиточного меню для Garry’s Mod
 
-<img src="assets/screenshots/metro12-main.jpg" alt="GMod Metro12 Port" width="100%">
-
-<br>
-
 [![Garry's Mod](https://img.shields.io/badge/Garry%27s%20Mod-Compatible-1e90ff?style=for-the-badge&logo=steam&logoColor=white)](#)
 [![Version](https://img.shields.io/badge/version-v1-087fbe?style=for-the-badge)](../../releases/latest)
-[![Language](https://img.shields.io/badge/language-RU-087fbe?style=for-the-badge)](#)
 [![Platform](https://img.shields.io/badge/platform-Windows-087fbe?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 <br>
