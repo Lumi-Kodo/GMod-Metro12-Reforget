@@ -76,8 +76,7 @@
 Steam/steamapps/common/GarrysMod/garrysmod/addons/
 ```
 
-4. Подтверди объединение папок и замену файлов.
-5. Запусти Garry’s Mod.
+4. Запусти Garry’s Mod.
 
 ---
 
