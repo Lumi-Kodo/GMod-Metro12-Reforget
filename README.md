@@ -70,10 +70,10 @@
 
 1. Скачай последнюю версию мода в разделе [Releases](../../releases/latest).
 2. Распакуй скачанный архив.
-3. Скопируй папку `html` в каталог:
+3. Скопируй папку в каталог:
 
 ```text
-Steam\steamapps\common\GarrysMod\garrysmod
+Steam/steamapps/common/GarrysMod/garrysmod/addons/
 ```
 
 4. Подтверди объединение папок и замену файлов.
