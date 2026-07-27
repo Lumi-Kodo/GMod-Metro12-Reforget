@@ -101,17 +101,4 @@ Steam\steamapps\common\GarrysMod\garrysmod
 - Мод не является официальным продуктом Facepunch Studios.
 
 ---
-
 <div align="center">
-
-### GMod Metro12 Port
-
-Классический интерфейс. Современная совместимость.
-
-<br>
-
-<a href="../../releases/latest"><b>Скачать</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="../../issues"><b>Сообщить об ошибке</b></a>
-
-</div>
